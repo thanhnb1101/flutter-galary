@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Login(title: 'Login App'),
+      home: const Login(title: 'Login App Demo'),
     );
   }
 }
